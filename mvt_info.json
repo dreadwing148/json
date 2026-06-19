@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "language": "English",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+      "rating": 8.8
+    },
+    {
+      "id": 2,
+      "title": "Parasite",
+      "language": "Korean",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+      "rating": 8.5
+    },
+    {
+      "id": 3,
+      "title": "RRR",
+      "language": "Telugu",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/250px-RRR_Poster.jpg",
+      "rating": 8.0
+    },
+    {
+      "id": 4,
+      "title": "Drishyam",
+      "language": "Malayalam",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9e/DrishyamMovie.jpg",
+      "rating": 8.3
+    },
+    {
+      "id": 5,
+      "title": "Jailer",
+      "language": "Tamil",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Jailer_2023_Tamil_film_poster.jpg/250px-Jailer_2023_Tamil_film_poster.jpg",
+      "rating": 7.2
+    },
+    {
+      "id": 6,
+      "title": "Kantara",
+      "language": "Kannada",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kantara-_Chapter_1_poster.jpg/250px-Kantara-_Chapter_1_poster.jpg",
+      "rating": 8.2
+    },
+    {
+      "id": 7,
+      "title": "3 Idiots",
+      "language": "Hindi",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+      "rating": 8.4
+    },
+    {
+      "id": 8,
+      "title": "Spirited Away",
+      "language": "Japanese",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "rating": 8.6
+    },
+    {
+      "id": 9,
+      "title": "Amelie",
+      "language": "French",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg",
+      "rating": 8.3
+    },
+    {
+      "id": 10,
+      "title": "The Lives of Others",
+      "language": "German",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/26e5e3ac050ed4af3c1ad353dc51777909324d85222c69d1e1abc8864e57ea33.jpg",
+      "rating": 8.4
+    }
+  ]
+}

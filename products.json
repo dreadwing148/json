@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 50000,
+        "stock": 25
+    },
+    {
+        "id": 102,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 25000,
+        "stock": 40
+    },
+    {
+        "id": 103,
+        "name": "Keyboard",
+        "category": "Accessories",
+        "price": 1200,
+        "stock": 75
+    },
+    {
+        "id": 104,
+        "name": "Monitor",
+        "category": "Electronics",
+        "price": 15000,
+        "stock": 15
+    },
+    {
+        "id": 105,
+        "name": "Mouse",
+        "category": "Accessories",
+        "price": 800,
+        "stock": 100
+    }
+]

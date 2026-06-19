@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1001,
+        "name": "Arun Kumar",
+        "department": "IT",
+        "salary": 45000,
+        "experience": 3
+    },
+    {
+        "id": 1002,
+        "name": "Neha Sharma",
+        "department": "HR",
+        "salary": 38000,
+        "experience": 2
+    },
+    {
+        "id": 1003,
+        "name": "Rahul Nair",
+        "department": "Finance",
+        "salary": 52000,
+        "experience": 5
+    },
+    {
+        "id": 1004,
+        "name": "Priya Das",
+        "department": "Marketing",
+        "salary": 42000,
+        "experience": 4
+    },
+    {
+        "id": 1005,
+        "name": "Vishnu Raj",
+        "department": "IT",
+        "salary": 60000,
+        "experience": 6
+    }
+]

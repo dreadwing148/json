@@ -1,0 +1,467 @@
+{
+  "employees": [
+    {
+      "id": 1001,
+      "name": "Aarav Nair",
+      "age": 28,
+      "email": "aarav.nair@company.com",
+      "phone": "+91-9876543210",
+      "salary": 55000.50,
+      "active": true,
+      "joinDate": "2021-03-15",
+      "address": {"city": "Kochi",
+        "state": "Kerala",
+        "country": "India"
+      },
+      "department": {
+        "name": "Software Development",
+        "manager": "Priya Menon"
+      },
+      "skills": ["JavaScript", "AngularJS", "HTML"]
+    },
+    {
+      "id": 1002,
+      "name": "Diya Joseph",
+      "age": 31,
+      "email": "diya.joseph@company.com",
+      "phone": "+91-9876543211",
+      "salary": 62000.00,
+      "active": true,
+      "joinDate": "2019-07-21",
+      "address": {
+        "city": "Thiruvananthapuram",
+        "state": "Kerala",
+        "country": "India"
+      },
+      "department": {
+        "name": "Human Resources",
+        "manager": "Anil Kumar"
+      },
+      "skills": ["Recruitment", "Payroll", "Communication"]
+    },
+    {
+      "id": 1003,
+      "name": "Rahul Sharma",
+      "age": 35,
+      "email": "rahul.sharma@company.com",
+      "phone": "+91-9876543212",
+      "salary": 85000.75,
+      "active": true,
+      "joinDate": "2018-11-05",
+      "address": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "department": {
+        "name": "IT Infrastructure",
+        "manager": "Meera Nair"
+      },
+      "skills": ["Linux", "Networking", "Cloud"]
+    },
+    {
+      "id": 1004,
+      "name": "Sneha Reddy",
+      "age": 27,
+      "email": "sneha.reddy@company.com",
+      "phone": "+91-9876543213",
+      "salary": 51000.00,
+      "active": true,
+      "joinDate": "2022-01-10",
+      "address": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "department": {
+        "name": "Quality Assurance",
+        "manager": "Vikram Rao"
+      },
+      "skills": ["Testing", "Selenium", "Automation"]
+    },
+    {
+      "id": 1005,
+      "name": "Arjun Pillai",
+      "age": 30,
+      "email": "arjun.pillai@company.com",
+      "phone": "+91-9876543214",
+      "salary": 68000.25,
+      "active": false,
+      "joinDate": "2020-06-01",
+      "address": {
+        "city": "Kozhikode",
+        "state": "Kerala",
+        "country": "India"
+      },
+      "department": {
+        "name": "Data Analytics",
+        "manager": "Nisha George"
+      },
+      "skills": ["Python", "SQL", "Power BI"]
+    },
+    {
+      "id": 1006,
+      "name": "Megha Kapoor",
+      "age": 26,
+      "email": "megha.kapoor@company.com",
+      "phone": "+91-9876543215",
+      "salary": 49000.00,
+      "active": true,
+      "joinDate": "2023-04-18",
+      "address": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "department": {
+        "name": "Marketing",
+        "manager": "Rohan Shah"
+      },
+      "skills": ["SEO", "Content Writing", "Social Media"]
+    },
+    {
+      "id": 1007,
+      "name": "Vivek Menon",
+      "age": 33,
+      "email": "vivek.menon@company.com",
+      "phone": "+91-9876543216",
+      "salary": 73000.50,
+      "active": true,
+      "joinDate": "2017-08-12",
+      "address": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "department": {
+        "name": "Finance",
+        "manager": "Lakshmi Iyer"
+      },
+      "skills": ["Accounting", "Taxation", "Excel"]
+    },
+    {
+      "id": 1008,
+      "name": "Neha Gupta",
+      "age": 29,
+      "email": "neha.gupta@company.com",
+      "phone": "+91-9876543217",
+      "salary": 57000.00,
+      "active": true,
+      "joinDate": "2021-09-20",
+      "address": {
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "department": {
+        "name": "Customer Support",
+        "manager": "Sanjay Verma"
+      },
+      "skills": ["CRM", "Support", "Communication"]
+    },
+    {
+      "id": 1009,
+      "name": "Aditya Singh",
+      "age": 32,
+      "email": "aditya.singh@company.com",
+      "phone": "+91-9876543218",
+      "salary": 76000.00,
+      "active": true,
+      "joinDate": "2019-02-14",
+      "address": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "department": {
+        "name": "Software Development",
+        "manager": "Priya Menon"
+      },
+      "skills": ["Java", "Spring", "Microservices"]
+    },
+    {
+      "id": 1010,
+      "name": "Kavya Das",
+      "age": 24,
+      "email": "kavya.das@company.com",
+      "phone": "+91-9876543219",
+      "salary": 45000.00,
+      "active": true,
+      "joinDate": "2024-01-08",
+      "address": {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+      },
+      "department": {
+        "name": "UI/UX Design",
+        "manager": "Ritu Sharma"
+      },
+      "skills": ["Figma", "Adobe XD", "Design Thinking"]
+    },
+
+    {
+      "id": 1011,
+      "name": "Rohan Thomas",
+      "age": 34,
+      "email": "rohan.thomas@company.com",
+      "phone": "+91-9876543220",
+      "salary": 81000.00,
+      "active": true,
+      "joinDate": "2018-05-16",
+      "address": { "city": "Kochi", "state": "Kerala", "country": "India" },
+      "department": { "name": "DevOps", "manager": "Anita Nair" },
+      "skills": ["Docker", "Kubernetes", "AWS"]
+    },
+    {
+      "id": 1012,
+      "name": "Ananya Iyer",
+      "age": 29,
+      "email": "ananya.iyer@company.com",
+      "phone": "+91-9876543221",
+      "salary": 61000.00,
+      "active": true,
+      "joinDate": "2020-03-02",
+      "address": { "city": "Chennai", "state": "Tamil Nadu", "country": "India" },
+      "department": { "name": "Business Analysis", "manager": "Deepak Rao" },
+      "skills": ["Requirements", "UML", "Agile"]
+    },
+    {
+      "id": 1013,
+      "name": "Sanjana Patel",
+      "age": 27,
+      "email": "sanjana.patel@company.com",
+      "phone": "+91-9876543222",
+      "salary": 52000.00,
+      "active": true,
+      "joinDate": "2022-07-11",
+      "address": { "city": "Ahmedabad", "state": "Gujarat", "country": "India" },
+      "department": { "name": "Marketing", "manager": "Rohan Shah" },
+      "skills": ["Digital Marketing", "Analytics", "Campaigns"]
+    },
+    {
+      "id": 1014,
+      "name": "Nikhil Verma",
+      "age": 36,
+      "email": "nikhil.verma@company.com",
+      "phone": "+91-9876543223",
+      "salary": 92000.00,
+      "active": true,
+      "joinDate": "2016-10-04",
+      "address": { "city": "Delhi", "state": "Delhi", "country": "India" },
+      "department": { "name": "Cyber Security", "manager": "Amit Khanna" },
+      "skills": ["SIEM", "PenTesting", "Risk Assessment"]
+    },
+    {
+      "id": 1015,
+      "name": "Pooja Bhat",
+      "age": 25,
+      "email": "pooja.bhat@company.com",
+      "phone": "+91-9876543224",
+      "salary": 47000.00,
+      "active": true,
+      "joinDate": "2023-09-19",
+      "address": { "city": "Mysuru", "state": "Karnataka", "country": "India" },
+      "department": { "name": "Technical Support", "manager": "Sanjay Verma" },
+      "skills": ["Troubleshooting", "Windows", "Helpdesk"]
+    },
+
+    {
+      "id": 1016,
+      "name": "Ajay Kumar",
+      "age": 31,
+      "email": "ajay.kumar@company.com",
+      "phone": "+91-9876543225",
+      "salary": 69000.00,
+      "active": true,
+      "joinDate": "2021-05-12",
+      "address": { "city": "Lucknow", "state": "Uttar Pradesh", "country": "India" },
+      "department": { "name": "Software Development", "manager": "Priya Menon" },
+      "skills": ["Node.js", "MongoDB", "REST API"]
+    },
+    {
+      "id": 1017,
+      "name": "Keerthana S",
+      "age": 28,
+      "email": "keerthana.s@company.com",
+      "phone": "+91-9876543226",
+      "salary": 58000.00,
+      "active": false,
+      "joinDate": "2020-08-27",
+      "address": { "city": "Coimbatore", "state": "Tamil Nadu", "country": "India" },
+      "department": { "name": "QA", "manager": "Vikram Rao" },
+      "skills": ["Manual Testing", "JIRA", "Regression Testing"]
+    },
+    {
+      "id": 1018,
+      "name": "Harish Nambiar",
+      "age": 37,
+      "email": "harish.nambiar@company.com",
+      "phone": "+91-9876543227",
+      "salary": 98000.00,
+      "active": true,
+      "joinDate": "2015-12-01",
+      "address": { "city": "Kochi", "state": "Kerala", "country": "India" },
+      "department": { "name": "Architecture", "manager": "Rajesh Pillai" },
+      "skills": ["System Design", "Cloud", "Scalability"]
+    },
+    {
+      "id": 1019,
+      "name": "Aisha Khan",
+      "age": 26,
+      "email": "aisha.khan@company.com",
+      "phone": "+91-9876543228",
+      "salary": 50000.00,
+      "active": true,
+      "joinDate": "2023-02-13",
+      "address": { "city": "Bhopal", "state": "Madhya Pradesh", "country": "India" },
+      "department": { "name": "HR", "manager": "Anil Kumar" },
+      "skills": ["Onboarding", "Employee Relations", "MS Office"]
+    },
+    {
+      "id": 1020,
+      "name": "Manoj George",
+      "age": 38,
+      "email": "manoj.george@company.com",
+      "phone": "+91-9876543229",
+      "salary": 105000.00,
+      "active": true,
+      "joinDate": "2014-06-18",
+      "address": { "city": "Thrissur", "state": "Kerala", "country": "India" },
+      "department": { "name": "Operations", "manager": "Thomas Mathew" },
+      "skills": ["Planning", "Operations", "Leadership"]
+    },
+
+    {
+      "id": 1021,
+      "name": "Shweta Roy",
+      "age": 30,
+      "email": "shweta.roy@company.com",
+      "phone": "+91-9876543230",
+      "salary": 64000.00,
+      "active": true,
+      "joinDate": "2021-01-22",
+      "address": { "city": "Kolkata", "state": "West Bengal", "country": "India" },
+      "department": { "name": "Finance", "manager": "Lakshmi Iyer" },
+      "skills": ["Auditing", "GST", "Financial Reporting"]
+    },
+    {
+      "id": 1022,
+      "name": "Pranav Joshi",
+      "age": 29,
+      "email": "pranav.joshi@company.com",
+      "phone": "+91-9876543231",
+      "salary": 71000.00,
+      "active": true,
+      "joinDate": "2019-10-10",
+      "address": { "city": "Jaipur", "state": "Rajasthan", "country": "India" },
+      "department": { "name": "DevOps", "manager": "Anita Nair" },
+      "skills": ["CI/CD", "Terraform", "Azure"]
+    },
+    {
+      "id": 1023,
+      "name": "Reshma Paul",
+      "age": 27,
+      "email": "reshma.paul@company.com",
+      "phone": "+91-9876543232",
+      "salary": 56000.00,
+      "active": true,
+      "joinDate": "2022-04-04",
+      "address": { "city": "Kottayam", "state": "Kerala", "country": "India" },
+      "department": { "name": "Content Team", "manager": "Rohan Shah" },
+      "skills": ["Writing", "Editing", "SEO"]
+    },
+    {
+      "id": 1024,
+      "name": "Tarun Malhotra",
+      "age": 35,
+      "email": "tarun.malhotra@company.com",
+      "phone": "+91-9876543233",
+      "salary": 89000.00,
+      "active": true,
+      "joinDate": "2017-03-09",
+      "address": { "city": "Delhi", "state": "Delhi", "country": "India" },
+      "department": { "name": "Network Engineering", "manager": "Meera Nair" },
+      "skills": ["Routing", "Switching", "Firewalls"]
+    },
+    {
+      "id": 1025,
+      "name": "Gayathri Mohan",
+      "age": 24,
+      "email": "gayathri.mohan@company.com",
+      "phone": "+91-9876543234",
+      "salary": 44000.00,
+      "active": true,
+      "joinDate": "2024-02-05",
+      "address": { "city": "Alappuzha", "state": "Kerala", "country": "India" },
+      "department": { "name": "UI/UX Design", "manager": "Ritu Sharma" },
+      "skills": ["Wireframing", "Prototyping", "Figma"]
+    },
+
+    {
+      "id": 1026,
+      "name": "Abhishek Jain",
+      "age": 33,
+      "email": "abhishek.jain@company.com",
+      "phone": "+91-9876543235",
+      "salary": 78000.00,
+      "active": true,
+      "joinDate": "2018-08-08",
+      "address": { "city": "Indore", "state": "Madhya Pradesh", "country": "India" },
+      "department": { "name": "Software Development", "manager": "Priya Menon" },
+      "skills": ["C#", ".NET", "SQL Server"]
+    },
+    {
+      "id": 1027,
+      "name": "Linda Mathew",
+      "age": 28,
+      "email": "linda.mathew@company.com",
+      "phone": "+91-9876543236",
+      "salary": 59000.00,
+      "active": true,
+      "joinDate": "2020-11-17",
+      "address": { "city": "Pathanamthitta", "state": "Kerala", "country": "India" },
+      "department": { "name": "Customer Success", "manager": "Sanjay Verma" },
+      "skills": ["Customer Engagement", "CRM", "Training"]
+    },
+    {
+      "id": 1028,
+      "name": "Suresh Babu",
+      "age": 39,
+      "email": "suresh.babu@company.com",
+      "phone": "+91-9876543237",
+      "salary": 112000.00,
+      "active": true,
+      "joinDate": "2013-09-25",
+      "address": { "city": "Visakhapatnam", "state": "Andhra Pradesh", "country": "India" },
+      "department": { "name": "Operations", "manager": "Thomas Mathew" },
+      "skills": ["Management", "Budgeting", "Strategy"]
+    },
+    {
+      "id": 1029,
+      "name": "Nandita Bose",
+      "age": 32,
+      "email": "nandita.bose@company.com",
+      "phone": "+91-9876543238",
+      "salary": 67000.00,
+      "active": true,
+      "joinDate": "2019-06-24",
+      "address": { "city": "Bhubaneswar", "state": "Odisha", "country": "India" },
+      "department": { "name": "Business Analysis", "manager": "Deepak Rao" },
+      "skills": ["Documentation", "Stakeholder Management", "Agile"]
+    },
+    {
+      "id": 1030,
+      "name": "Ritesh Kulkarni",
+      "age": 31,
+      "email": "ritesh.kulkarni@company.com",
+      "phone": "+91-9876543239",
+      "salary": 74000.00,
+      "active": true,
+      "joinDate": "2020-12-14",
+      "address": { "city": "Nagpur", "state": "Maharashtra", "country": "India" },
+      "department": { "name": "Data Analytics", "manager": "Nisha George" },
+      "skills": ["Python", "Machine Learning", "SQL"]
+    }
+  ]
+}

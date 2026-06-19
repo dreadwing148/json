@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "courseName": "AngularJS",
+        "duration": "40 Hours",
+        "trainer": "Krishnan",
+        "fee": 5000
+    },
+    {
+        "id": 2,
+        "courseName": "JavaScript",
+        "duration": "30 Hours",
+        "trainer": "Anand",
+        "fee": 4000
+    },
+    {
+        "id": 3,
+        "courseName": "React",
+        "duration": "50 Hours",
+        "trainer": "Rahul",
+        "fee": 7000
+    },
+    {
+        "id": 4,
+        "courseName": "IoT",
+        "duration": "100 Hours",
+        "trainer": "Deepak",
+        "fee": 12000
+    },
+    {
+        "id": 5,
+        "courseName": "Python",
+        "duration": "45 Hours",
+        "trainer": "Meera",
+        "fee": 6000
+    }
+]

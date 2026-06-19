@@ -1,0 +1,404 @@
+{
+  "movies": [
+    {
+      "id": 1001,
+      "title": "Inception",
+      "language": "English",
+      "releaseYear": 2010,
+      "durationMinutes": 148,
+      "genre": "Science Fiction",
+      "rating": 8.8,
+      "available": true,
+      "details": {
+        "director": "Christopher Nolan",
+        "country": "United States",
+        "contentRating": "PG-13"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Dolby Atmos",
+        "subtitles": ["English", "Spanish", "French", "German"]
+      }
+    },
+    {
+      "id": 1002,
+      "title": "Parasite",
+      "language": "Korean",
+      "releaseYear": 2019,
+      "durationMinutes": 132,
+      "genre": "Thriller",
+      "rating": 8.5,
+      "available": true,
+      "details": {
+        "director": "Bong Joon-ho",
+        "country": "South Korea",
+        "contentRating": "R"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Korean",
+        "subtitles": ["English", "Hindi", "Japanese", "French"]
+      }
+    },
+    {
+      "id": 1003,
+      "title": "RRR",
+      "language": "Telugu",
+      "releaseYear": 2022,
+      "durationMinutes": 182,
+      "genre": "Action",
+      "rating": 8.0,
+      "available": true,
+      "details": {
+        "director": "S. S. Rajamouli",
+        "country": "India",
+        "contentRating": "UA"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Telugu",
+        "subtitles": ["English", "Hindi", "Tamil", "Malayalam"]
+      }
+    },
+    {
+      "id": 1004,
+      "title": "Drishyam",
+      "language": "Malayalam",
+      "releaseYear": 2013,
+      "durationMinutes": 160,
+      "genre": "Crime Thriller",
+      "rating": 8.3,
+      "available": true,
+      "details": {
+        "director": "Jeethu Joseph",
+        "country": "India",
+        "contentRating": "U"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "Malayalam",
+        "subtitles": ["English", "Hindi", "Tamil"]
+      }
+    },
+    {
+      "id": 1005,
+      "title": "Jailer",
+      "language": "Tamil",
+      "releaseYear": 2023,
+      "durationMinutes": 168,
+      "genre": "Action Comedy",
+      "rating": 7.2,
+      "available": true,
+      "details": {
+        "director": "Nelson Dilipkumar",
+        "country": "India",
+        "contentRating": "UA"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Tamil",
+        "subtitles": ["English", "Telugu", "Hindi", "Malayalam"]
+      }
+    },
+    {
+      "id": 1006,
+      "title": "Kantara",
+      "language": "Kannada",
+      "releaseYear": 2022,
+      "durationMinutes": 148,
+      "genre": "Action Drama",
+      "rating": 8.2,
+      "available": true,
+      "details": {
+        "director": "Rishab Shetty",
+        "country": "India",
+        "contentRating": "UA"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Kannada",
+        "subtitles": ["English", "Tamil", "Telugu", "Hindi"]
+      }
+    },
+    {
+      "id": 1007,
+      "title": "3 Idiots",
+      "language": "Hindi",
+      "releaseYear": 2009,
+      "durationMinutes": 170,
+      "genre": "Comedy Drama",
+      "rating": 8.4,
+      "available": true,
+      "details": {
+        "director": "Rajkumar Hirani",
+        "country": "India",
+        "contentRating": "U"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "Hindi",
+        "subtitles": ["English", "Tamil", "Telugu"]
+      }
+    },
+    {
+      "id": 1008,
+      "title": "Dangal",
+      "language": "Hindi",
+      "releaseYear": 2016,
+      "durationMinutes": 161,
+      "genre": "Sports Drama",
+      "rating": 8.3,
+      "available": true,
+      "details": {
+        "director": "Nitesh Tiwari",
+        "country": "India",
+        "contentRating": "U"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Hindi",
+        "subtitles": ["English", "Chinese", "Tamil"]
+      }
+    },
+    {
+      "id": 1009,
+      "title": "Spirited Away",
+      "language": "Japanese",
+      "releaseYear": 2001,
+      "durationMinutes": 125,
+      "genre": "Animation Fantasy",
+      "rating": 8.6,
+      "available": true,
+      "details": {
+        "director": "Hayao Miyazaki",
+        "country": "Japan",
+        "contentRating": "PG"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "Japanese",
+        "subtitles": ["English", "French", "German"]
+      }
+    },
+    {
+      "id": 1010,
+      "title": "Amelie",
+      "language": "French",
+      "releaseYear": 2001,
+      "durationMinutes": 122,
+      "genre": "Romantic Comedy",
+      "rating": 8.3,
+      "available": true,
+      "details": {
+        "director": "Jean-Pierre Jeunet",
+        "country": "France",
+        "contentRating": "R"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "French",
+        "subtitles": ["English", "Spanish", "Italian"]
+      }
+    },
+    {
+      "id": 1011,
+      "title": "The Intouchables",
+      "language": "French",
+      "releaseYear": 2011,
+      "durationMinutes": 112,
+      "genre": "Drama",
+      "rating": 8.5,
+      "available": true,
+      "details": {
+        "director": "Olivier Nakache",
+        "country": "France",
+        "contentRating": "R"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "French",
+        "subtitles": ["English", "German", "Spanish"]
+      }
+    },
+    {
+      "id": 1012,
+      "title": "Pan's Labyrinth",
+      "language": "Spanish",
+      "releaseYear": 2006,
+      "durationMinutes": 118,
+      "genre": "Fantasy Drama",
+      "rating": 8.2,
+      "available": true,
+      "details": {
+        "director": "Guillermo del Toro",
+        "country": "Spain",
+        "contentRating": "R"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "Spanish",
+        "subtitles": ["English", "French", "Portuguese"]
+      }
+    },
+    {
+      "id": 1013,
+      "title": "The Lives of Others",
+      "language": "German",
+      "releaseYear": 2006,
+      "durationMinutes": 137,
+      "genre": "Drama Thriller",
+      "rating": 8.4,
+      "available": true,
+      "details": {
+        "director": "Florian Henckel von Donnersmarck",
+        "country": "Germany",
+        "contentRating": "R"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "German",
+        "subtitles": ["English", "French", "Italian"]
+      }
+    },
+    {
+      "id": 1014,
+      "title": "Crouching Tiger Hidden Dragon",
+      "language": "Mandarin",
+      "releaseYear": 2000,
+      "durationMinutes": 120,
+      "genre": "Martial Arts",
+      "rating": 7.9,
+      "available": true,
+      "details": {
+        "director": "Ang Lee",
+        "country": "China",
+        "contentRating": "PG-13"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "Mandarin",
+        "subtitles": ["English", "Japanese", "Korean"]
+      }
+    },
+    {
+      "id": 1015,
+      "title": "The Wandering Earth",
+      "language": "Mandarin",
+      "releaseYear": 2019,
+      "durationMinutes": 125,
+      "genre": "Science Fiction",
+      "rating": 6.9,
+      "available": true,
+      "details": {
+        "director": "Frant Gwo",
+        "country": "China",
+        "contentRating": "PG-13"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Mandarin",
+        "subtitles": ["English", "Hindi", "Japanese"]
+      }
+    },
+    {
+      "id": 1016,
+      "title": "Baahubali The Beginning",
+      "language": "Telugu",
+      "releaseYear": 2015,
+      "durationMinutes": 159,
+      "genre": "Epic Action",
+      "rating": 8.0,
+      "available": true,
+      "details": {
+        "director": "S. S. Rajamouli",
+        "country": "India",
+        "contentRating": "UA"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Telugu",
+        "subtitles": ["English", "Tamil", "Hindi"]
+      }
+    },
+    {
+      "id": 1017,
+      "title": "Charlie",
+      "language": "Malayalam",
+      "releaseYear": 2015,
+      "durationMinutes": 130,
+      "genre": "Adventure Drama",
+      "rating": 8.1,
+      "available": true,
+      "details": {
+        "director": "Martin Prakkat",
+        "country": "India",
+        "contentRating": "U"
+      },
+      "streaming": {
+        "quality": "HD",
+        "audio": "Malayalam",
+        "subtitles": ["English", "Tamil", "Hindi"]
+      }
+    },
+    {
+      "id": 1018,
+      "title": "Vikram",
+      "language": "Tamil",
+      "releaseYear": 2022,
+      "durationMinutes": 175,
+      "genre": "Action Thriller",
+      "rating": 8.3,
+      "available": true,
+      "details": {
+        "director": "Lokesh Kanagaraj",
+        "country": "India",
+        "contentRating": "UA"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Tamil",
+        "subtitles": ["English", "Hindi", "Telugu"]
+      }
+    },
+    {
+      "id": 1019,
+      "title": "777 Charlie",
+      "language": "Kannada",
+      "releaseYear": 2022,
+      "durationMinutes": 164,
+      "genre": "Adventure Drama",
+      "rating": 8.1,
+      "available": true,
+      "details": {
+        "director": "Kiranraj K",
+        "country": "India",
+        "contentRating": "U"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Kannada",
+        "subtitles": ["English", "Hindi", "Tamil"]
+      }
+    },
+    {
+      "id": 1020,
+      "title": "Roma",
+      "language": "Spanish",
+      "releaseYear": 2018,
+      "durationMinutes": 135,
+      "genre": "Drama",
+      "rating": 7.7,
+      "available": true,
+      "details": {
+        "director": "Alfonso Cuaron",
+        "country": "Mexico",
+        "contentRating": "R"
+      },
+      "streaming": {
+        "quality": "4K",
+        "audio": "Spanish",
+        "subtitles": ["English", "French", "German"]
+      }
+    }
+  ]
+}

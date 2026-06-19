@@ -1,0 +1,368 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "price": 74999,
+      "stock": 125,
+      "rating": 4.7,
+      "active": true,
+      "category": {
+        "id": 1,
+        "name": "Smartphones"
+      },
+      "supplier": {
+        "id": 501,
+        "name": "Samsung India"
+      },
+      "tags": ["Android", "5G", "AMOLED"]
+    },
+    {
+      "id": 1002,
+      "name": "Apple iPhone 15",
+      "brand": "Apple",
+      "price": 79900,
+      "stock": 85,
+      "rating": 4.8,
+      "active": true,
+      "category": {
+        "id": 1,
+        "name": "Smartphones"
+      },
+      "supplier": {
+        "id": 502,
+        "name": "Apple India"
+      },
+      "tags": ["iOS", "5G", "Premium"]
+    },
+    {
+      "id": 1003,
+      "name": "Dell Inspiron 15",
+      "brand": "Dell",
+      "price": 58999,
+      "stock": 42,
+      "rating": 4.5,
+      "active": true,
+      "category": {
+        "id": 2,
+        "name": "Laptops"
+      },
+      "supplier": {
+        "id": 503,
+        "name": "Dell Technologies"
+      },
+      "tags": ["Windows", "Laptop", "SSD"]
+    },
+    {
+      "id": 1004,
+      "name": "HP Pavilion 14",
+      "brand": "HP",
+      "price": 62999,
+      "stock": 37,
+      "rating": 4.4,
+      "active": true,
+      "category": {
+        "id": 2,
+        "name": "Laptops"
+      },
+      "supplier": {
+        "id": 504,
+        "name": "HP India"
+      },
+      "tags": ["Laptop", "Windows", "Office"]
+    },
+    {
+      "id": 1005,
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "price": 28990,
+      "stock": 60,
+      "rating": 4.8,
+      "active": true,
+      "category": {
+        "id": 3,
+        "name": "Headphones"
+      },
+      "supplier": {
+        "id": 505,
+        "name": "Sony India"
+      },
+      "tags": ["Wireless", "ANC", "Bluetooth"]
+    },
+    {
+      "id": 1006,
+      "name": "Boat Airdopes 141",
+      "brand": "Boat",
+      "price": 1299,
+      "stock": 250,
+      "rating": 4.2,
+      "active": true,
+      "category": {
+        "id": 3,
+        "name": "Headphones"
+      },
+      "supplier": {
+        "id": 506,
+        "name": "Boat Lifestyle"
+      },
+      "tags": ["TWS", "Bluetooth", "Budget"]
+    },
+    {
+      "id": 1007,
+      "name": "LG 55-inch OLED TV",
+      "brand": "LG",
+      "price": 109999,
+      "stock": 18,
+      "rating": 4.9,
+      "active": true,
+      "category": {
+        "id": 4,
+        "name": "Televisions"
+      },
+      "supplier": {
+        "id": 507,
+        "name": "LG Electronics"
+      },
+      "tags": ["OLED", "4K", "Smart TV"]
+    },
+    {
+      "id": 1008,
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "price": 64999,
+      "stock": 70,
+      "rating": 4.6,
+      "active": true,
+      "category": {
+        "id": 1,
+        "name": "Smartphones"
+      },
+      "supplier": {
+        "id": 508,
+        "name": "OnePlus India"
+      },
+      "tags": ["Android", "5G", "Flagship"]
+    },
+    {
+      "id": 1009,
+      "name": "Lenovo ThinkPad E14",
+      "brand": "Lenovo",
+      "price": 54999,
+      "stock": 55,
+      "rating": 4.5,
+      "active": true,
+      "category": {
+        "id": 2,
+        "name": "Laptops"
+      },
+      "supplier": {
+        "id": 509,
+        "name": "Lenovo India"
+      },
+      "tags": ["Business", "SSD", "Windows"]
+    },
+    {
+      "id": 1010,
+      "name": "Canon EOS R50",
+      "brand": "Canon",
+      "price": 76999,
+      "stock": 15,
+      "rating": 4.7,
+      "active": true,
+      "category": {
+        "id": 5,
+        "name": "Cameras"
+      },
+      "supplier": {
+        "id": 510,
+        "name": "Canon India"
+      },
+      "tags": ["Mirrorless", "Photography", "4K"]
+    },
+
+    {
+      "id": 1011,
+      "name": "Nikon Z30",
+      "brand": "Nikon",
+      "price": 68999,
+      "stock": 22,
+      "rating": 4.6,
+      "active": true,
+      "category": {
+        "id": 5,
+        "name": "Cameras"
+      },
+      "supplier": {
+        "id": 511,
+        "name": "Nikon India"
+      },
+      "tags": ["Mirrorless", "Vlogging", "4K"]
+    },
+    {
+      "id": 1012,
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "price": 41900,
+      "stock": 48,
+      "rating": 4.8,
+      "active": true,
+      "category": {
+        "id": 6,
+        "name": "Smart Watches"
+      },
+      "supplier": {
+        "id": 502,
+        "name": "Apple India"
+      },
+      "tags": ["WatchOS", "Fitness", "Premium"]
+    },
+    {
+      "id": 1013,
+      "name": "Samsung Galaxy Watch 6",
+      "brand": "Samsung",
+      "price": 27999,
+      "stock": 65,
+      "rating": 4.5,
+      "active": true,
+      "category": {
+        "id": 6,
+        "name": "Smart Watches"
+      },
+      "supplier": {
+        "id": 501,
+        "name": "Samsung India"
+      },
+      "tags": ["WearOS", "Fitness", "Bluetooth"]
+    },
+    {
+      "id": 1014,
+      "name": "Asus ROG Strix G16",
+      "brand": "Asus",
+      "price": 119999,
+      "stock": 20,
+      "rating": 4.8,
+      "active": true,
+      "category": {
+        "id": 2,
+        "name": "Laptops"
+      },
+      "supplier": {
+        "id": 512,
+        "name": "Asus India"
+      },
+      "tags": ["Gaming", "RTX", "Laptop"]
+    },
+    {
+      "id": 1015,
+      "name": "Logitech MX Master 3S",
+      "brand": "Logitech",
+      "price": 8995,
+      "stock": 110,
+      "rating": 4.9,
+      "active": true,
+      "category": {
+        "id": 7,
+        "name": "Accessories"
+      },
+      "supplier": {
+        "id": 513,
+        "name": "Logitech"
+      },
+      "tags": ["Mouse", "Wireless", "Productivity"]
+    },
+
+    {
+      "id": 1016,
+      "name": "JBL Flip 6",
+      "brand": "JBL",
+      "price": 9999,
+      "stock": 75,
+      "rating": 4.6,
+      "active": true,
+      "category": {
+        "id": 8,
+        "name": "Speakers"
+      },
+      "supplier": {
+        "id": 514,
+        "name": "JBL India"
+      },
+      "tags": ["Bluetooth", "Portable", "Waterproof"]
+    },
+    {
+      "id": 1017,
+      "name": "Amazon Echo Dot 5",
+      "brand": "Amazon",
+      "price": 5499,
+      "stock": 140,
+      "rating": 4.5,
+      "active": true,
+      "category": {
+        "id": 9,
+        "name": "Smart Home"
+      },
+      "supplier": {
+        "id": 515,
+        "name": "Amazon Devices"
+      },
+      "tags": ["Alexa", "Smart Home", "Voice"]
+    },
+    {
+      "id": 1018,
+      "name": "Google Nest Hub",
+      "brand": "Google",
+      "price": 7999,
+      "stock": 58,
+      "rating": 4.4,
+      "active": true,
+      "category": {
+        "id": 9,
+        "name": "Smart Home"
+      },
+      "supplier": {
+        "id": 516,
+        "name": "Google Devices"
+      },
+      "tags": ["Assistant", "Display", "Smart Home"]
+    },
+    {
+      "id": 1019,
+      "name": "Xiaomi Pad 6",
+      "brand": "Xiaomi",
+      "price": 26999,
+      "stock": 67,
+      "rating": 4.6,
+      "active": true,
+      "category": {
+        "id": 10,
+        "name": "Tablets"
+      },
+      "supplier": {
+        "id": 517,
+        "name": "Xiaomi India"
+      },
+      "tags": ["Tablet", "Android", "Entertainment"]
+    },
+    {
+      "id": 1020,
+      "name": "iPad Air",
+      "brand": "Apple",
+      "price": 59900,
+      "stock": 33,
+      "rating": 4.9,
+      "active": true,
+      "category": {
+        "id": 10,
+        "name": "Tablets"
+      },
+      "supplier": {
+        "id": 502,
+        "name": "Apple India"
+      },
+      "tags": ["iPadOS", "Tablet", "Premium"]
+    }
+
+    // Continue similarly up to id 1030...
+  ]
+}

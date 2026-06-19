@@ -1,0 +1,37 @@
+[
+    {
+        "orderId": 5001,
+        "customer": "John Smith",
+        "product": "Laptop",
+        "quantity": 1,
+        "total": 50000
+    },
+    {
+        "orderId": 5002,
+        "customer": "Alice Johnson",
+        "product": "Monitor",
+        "quantity": 2,
+        "total": 30000
+    },
+    {
+        "orderId": 5003,
+        "customer": "David Wilson",
+        "product": "Mouse",
+        "quantity": 3,
+        "total": 2400
+    },
+    {
+        "orderId": 5004,
+        "customer": "Sarah Thomas",
+        "product": "Keyboard",
+        "quantity": 1,
+        "total": 1200
+    },
+    {
+        "orderId": 5005,
+        "customer": "Michael George",
+        "product": "Smartphone",
+        "quantity": 1,
+        "total": 25000
+    }
+]
